@@ -53,4 +53,4 @@ This repository tracks all historical deals for **QT Futures** published on Prop
 
 ---
 
-Last synced: 2026-10-29T03:50:33Z (auto, hourly)
+Last synced: 2026-10-29T06:33:16Z (auto, hourly)
