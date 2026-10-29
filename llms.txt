@@ -1,0 +1,8 @@
+# QT Futures Discount Codes
+
+This dataset tracks historical deal observations for QT Futures from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (50%)
+Works any time on all QT Futures challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/qt-futures/

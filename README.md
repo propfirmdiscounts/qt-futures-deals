@@ -1,11 +1,56 @@
 # QT Futures - Deal History
 
-> This repository will be automatically populated by the hourly sync workflow.
+Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
-**Firm page:** https://propfirmdiscount.com/prop-firm/qt-futures/
+**Prop firm page:** https://propfirmdiscount.com/prop-firm/qt-futures/
 
-**Standing discount code:** PFD (50%)
+**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+
+Use discount code **PFD** to get **50%** on QT Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all QT Futures evaluation accounts.
 
 ---
 
-Last synced: Never (waiting for first sync)
+## Latest Deal
+
+### QT Futures - Limited Offer: 30% OFF All Evaluations and Activation Fees
+
+**Published:** 2026-01-19  
+**Offer ends:** Ended  
+**Discount:** 30%  
+**Scope:** All Evaluations, Activation Fees, Instant Funded  
+
+**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
+
+**Deal page:** https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/
+
+---
+
+## Deal History
+
+Total deals tracked: **3**
+
+### 2026 (1 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2026-01-19 | Limited Offer: 30% OFF All Evaluations and Activation Fees | 30% | Ended | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) |
+
+### 2025 (2 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2025-12-05 | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% | Ended | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
+| 2025-11-26 | Black Friday Sale: 25% OFF Purchase & Activation | 25% | Ended | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
+
+---
+
+## About This Repository
+
+This repository tracks all historical deals for **QT Futures** published on PropFirmDiscount.com. Updated hourly via automated sync.
+
+**Data source:** PropFirmDiscount.com  
+**Prop firm profile:** https://propfirmdiscount.com/prop-firm/qt-futures/  
+
+---
+
+Last synced: 2026-10-29T03:50:33Z (auto, hourly)
