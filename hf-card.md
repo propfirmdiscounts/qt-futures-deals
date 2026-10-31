@@ -76,8 +76,8 @@ Total deals tracked: **3**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-05 | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
-| 2025-11-26 | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
+| 2025-12-05 | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
+| 2025-11-26 | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
 
 ---
 
