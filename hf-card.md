@@ -68,16 +68,16 @@ Total deals tracked: **3**
 
 ### 2026 (1 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-01-19 | Limited Offer: 30% OFF All Evaluations and Activation Fees | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-01-19 | Limited Offer: 30% OFF All Evaluations and Activation Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) |
 
 ### 2025 (2 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-05 | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
-| 2025-11-26 | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-05 | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
+| 2025-11-26 | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
 
 ---
 
@@ -104,6 +104,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
