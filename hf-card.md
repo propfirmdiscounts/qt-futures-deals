@@ -1,45 +1,68 @@
 ---
 license: other
+pretty_name: QT Futures Discount Code
 configs:
 - config_name: qt-futures-deals
   data_files:
   - split: data
     path: datasets/qt-futures-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - qt-futures
 ---
 
-# QT Futures - Discount Codes & Deal History
+# QT Futures Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-01-19, the verified QT Futures discount code is **PFD** — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/qt-futures/
+> At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
+> We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
+> At QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.
+>
+> — QT Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-01-19
+- Trustpilot: 3.7/5 (13197 reviews)
+- Activate: https://propfirmdiscount.com/go/qtfunded
+- Firm page: https://propfirmdiscount.com/prop-firm/qt-futures/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **50% off** on QT Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all QT Futures evaluation accounts.
+## Current QT Futures deal: Limited Offer: 30% OFF All Evaluations and Activation Fees
+
+- Published: 2026-01-19
+- Offer ends: Ended
+- Offer: 30% off
+- Scope: All Evaluations, Activation Fees, Instant Funded
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/
+
+## QT Futures discount code FAQ
+
+**What is the QT Futures discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off QT Futures challenges and accounts.
+
+**Does the QT Futures discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current QT Futures deal?**
+
+**Limited Offer: 30% OFF All Evaluations and Activation Fees** — published 2026-01-19. Offer ends: Ended. The offer is 30% off.
 
 ---
 
-## Latest Deal
-
-### QT Futures - Limited Offer: 30% OFF All Evaluations and Activation Fees
-
-**Published:** 2026-01-19  
-**Offer ends:** Ended  
-**Discount:** 30% off  
-**Scope:** All Evaluations, Activation Fees, Instant Funded  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **3**
 
@@ -58,19 +81,20 @@ Total deals tracked: **3**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **QT Futures** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **QT Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/qt-futures/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/qt-futures/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
