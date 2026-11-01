@@ -19,7 +19,7 @@ tags:
 
 # QT Futures Discount Code
 
-As of 2026-01-19, the verified QT Futures discount code is **PFD** — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-01-19, the verified QT Futures discount code is PFD — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
