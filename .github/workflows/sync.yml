@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: qt-futures-discount-codes
+  HF_NAMESPACE: propfirmdiscount
+  HF_REPO_NAME: qt-futures-deals
   FIRM_SLUG: qt-futures
   DEALSTORE_ID: 213
   FIRM_NAME: QT Futures
