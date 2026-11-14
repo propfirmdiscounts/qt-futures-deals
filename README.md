@@ -1,6 +1,6 @@
 # QT Futures - Discount Codes & Deal History
 
-As of 2026-01-19, the verified QT Futures discount code is PFD — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified QT Futures discount code is PFD — 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
@@ -9,7 +9,7 @@ As of 2026-01-19, the verified QT Futures discount code is PFD — up to 50% OFF
 > — QT Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-01-19
 - Trustpilot: 3.7/5 (13197 reviews)
@@ -31,7 +31,7 @@ As of 2026-01-19, the verified QT Futures discount code is PFD — up to 50% OFF
 
 **What is the QT Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 50% off QT Futures challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 50% off QT Futures challenges and accounts.
 
 **Does the QT Futures discount code expire?**
 
@@ -51,14 +51,14 @@ Total deals tracked: **3**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-01-19 | Limited Offer: 30% OFF All Evaluations and Activation Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) |
+| 2026-01-19 | QT Futures: Limited Offer: 30% OFF All Evaluations and Activation Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) |
 
 ### 2025 (2 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-05 | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
-| 2025-11-26 | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
+| 2025-12-05 | QT Futures: Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) |
+| 2025-11-26 | QT Futures: Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
 
 ---
 
