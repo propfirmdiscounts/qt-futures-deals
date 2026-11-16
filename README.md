@@ -1,6 +1,6 @@
 # QT Futures - Discount Codes & Deal History
 
-As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "Limited Offer: 30% OFF All Evaluations and Activation Fees".
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
@@ -13,11 +13,11 @@ As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, w
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-01-19
 - Trustpilot: [3.7/5 (13197 reviews)](https://www.trustpilot.com/review/quanttekel.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/qt-futures-deals](https://github.com/propfirmdiscounts/qt-futures-deals)
-- Activate: [https://propfirmdiscount.com/go/qtfunded](https://propfirmdiscount.com/go/qtfunded)
-- Firm page: [https://propfirmdiscount.com/prop-firm/qt-futures/](https://propfirmdiscount.com/prop-firm/qt-futures/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [QT Futures Deals Repository](https://github.com/propfirmdiscounts/qt-futures-deals)
+- Activate: [Activate QT Futures Discount Code](https://propfirmdiscount.com/go/qtfunded)
+- Firm page: [QT Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/qt-futures/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [QT Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current QT Futures deal: Limited Offer: 30% OFF All Evaluations and Activation Fees
 
@@ -26,7 +26,7 @@ As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, w
 - Offer: 30% off
 - Scope: All Evaluations, Activation Fees, Instant Funded
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/)
+- Deal page: [QT Futures Deal Page](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/)
 
 ## QT Futures discount code FAQ
 
@@ -67,9 +67,9 @@ Total deals tracked: **3**
 
 This repository mirrors every deal **QT Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/qt-futures/](https://propfirmdiscount.com/prop-firm/qt-futures/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [QT Futures Profile](https://propfirmdiscount.com/prop-firm/qt-futures/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/qt-futures-deals.json`
 
@@ -112,4 +112,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
