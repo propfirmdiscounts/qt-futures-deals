@@ -1,6 +1,6 @@
 # QT Futures Discount Code & Deal History
 
-As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "Limited Offer: 30% OFF All Evaluations and Activation Fees".
+As of November 2026, the verified QT Futures discount code is PFDDEAL — 50% OFF, which can be applied on the checkout page anytime. The newest is "Limited Offer: 30% OFF All Evaluations and Activation Fees".
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
@@ -8,7 +8,7 @@ As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, w
 >
 > — QT Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
 
-- Code: PFD
+- Code: PFDDEAL
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-01-19
@@ -32,7 +32,7 @@ As of November 2026, the verified QT Futures discount code is PFD — 50% OFF, w
 
 **What is the QT Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 50% off QT Futures challenges and accounts.
+PFDDEAL. It is verified by PropFirmDiscount.com and takes 50% off QT Futures challenges and accounts.
 
 **Does the QT Futures discount code expire?**
 
