@@ -1,4 +1,4 @@
-# QT Futures Discount Codes
+# QT Futures Discount Code & Deals History
 
 This dataset tracks historical deal observations for QT Futures from PropFirmDiscount.com.
 

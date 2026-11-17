@@ -1,4 +1,4 @@
-# QT Futures Discount Code & Deal History
+# QT Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified QT Futures discount code is PFDDEAL — 50% OFF, which can be applied on the checkout page anytime. The newest is "Limited Offer: 30% OFF All Evaluations and Activation Fees".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified QT Futures discount code is PFDDEAL — 50% OF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-01-19
 - Trustpilot: [3.7/5 (13197 reviews)](https://www.trustpilot.com/review/quanttekel.com)
-- GitHub repository: [QT Futures Deals Repository](https://github.com/propfirmdiscounts/qt-futures-deals)
+- GitHub repository: [QT Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/qt-futures-deals)
 - Activate: [Activate QT Futures Discount Code](https://propfirmdiscount.com/go/qtfunded)
 - Firm page: [QT Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/qt-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -28,7 +28,7 @@ As of November 2026, the verified QT Futures discount code is PFDDEAL — 50% OF
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [QT Futures Deal Page](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/)
 
-## QT Futures Discount Code & Deals FAQ
+## QT Futures Discount Code & Deals History FAQ
 
 **What is the QT Futures discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## QT Futures Deal History
+## QT Futures Deals History
 
 Total deals tracked: **3**
 
@@ -63,7 +63,7 @@ Total deals tracked: **3**
 
 ---
 
-## About the QT Futures Deals Dataset
+## About the QT Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **QT Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -71,7 +71,7 @@ This repository mirrors every deal **QT Futures** has published on PropFirmDisco
 - Prop firm profile: [QT Futures Profile](https://propfirmdiscount.com/prop-firm/qt-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## QT Futures Deal Dataset: Field Definitions
+## QT Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
